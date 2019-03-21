@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using WindowsSorter;
 
-namespace ConsoleApplication1
+namespace WindowsSorter
 {
     [StructLayout(LayoutKind.Sequential)]
     public struct TagWindowinfo

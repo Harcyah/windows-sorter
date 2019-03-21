@@ -38,7 +38,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Position.cs" />
+    <Compile Include="ProcessNotFoundException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="TagRect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
